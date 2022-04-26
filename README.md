@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuryiM
-- 👀 I’m interested in programming, succulents, and sneakers
+- 👀 I’m interested in programming and plants
 - 🌱 I’m currently learning full stack with React
 
 <!---
