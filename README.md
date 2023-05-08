@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuryiM
 - 👀 I’m interested in programming
-- 🌱 I’m currently thonking
+- 🌱 I’m currently thinking
 
 <!---
 YuryiM/YuryiM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
